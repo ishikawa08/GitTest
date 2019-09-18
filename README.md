@@ -1,2 +1,2 @@
 # Test
-test for learning git
+test repository for learning git

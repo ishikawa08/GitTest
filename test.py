@@ -1,2 +1,2 @@
 print('Hello World!')
-print('repository renamed')
+print('renamed repository')
